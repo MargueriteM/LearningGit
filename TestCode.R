@@ -7,3 +7,5 @@ library(xROI)
 # add a new line
 
 # adding stuff to code
+
+library(coda)#load coda package
